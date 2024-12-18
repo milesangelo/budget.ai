@@ -1,0 +1,10 @@
+
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
