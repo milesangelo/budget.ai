@@ -8,3 +8,6 @@
 [Dd]ebug/
 [Bb]in/
 [Oo]bj/
+.idea/
+
+*.http
